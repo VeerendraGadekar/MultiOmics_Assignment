@@ -25,6 +25,7 @@ Cancer types included: BLCA, BRCA, CESC, COAD, ESCA, GBM, HNSC, KIRC, LIHC, LUAD
 ## Repository Contents  
 - `EDA_R-Copy1.ipynb`: Jupyter notebook with all exploration, visualization, and analysis code, fully annotated  
 - `MultiOmics_Assignment1.pdf`: PDF assignment guidelines and data description  
+- `MultiOmics_Assignment1_Report`: PDF with preliminary findings 
 - (Optional) `data/`: Folder for raw or processed data files if included
 
 ---
